@@ -1,8 +1,13 @@
 # app_badge
 
+Home | App badge
+:---:|:---:
+![12547958-38C8-4EDC-A31A-A73491B09C92](https://user-images.githubusercontent.com/73986840/137569249-eba47beb-1770-4366-9fff-552183e61765.png) | ![68EBC769-C5D9-4939-BA47-B0FD89A5DE91](https://user-images.githubusercontent.com/73986840/137569263-58c61ef2-4e50-43d8-9921-8352bc2290cb.png) |
+
 ## 参考
 【プラグイン】https://pub.dev/packages/flutter_app_badger<br>
 【記事】https://qiita.com/Riscait/items/fc8797ea144c3598e8a4<br>
+【Android・対応機種】https://github.com/leolin310148/ShortcutBadger/<br>
 
 ## Getting Started
 
